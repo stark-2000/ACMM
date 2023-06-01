@@ -25,6 +25,7 @@ The working principle of our Aloo Chappati preparation system involves precise c
 * In order to further enhance the performance and functionality of our system, we have identified several areas for future work. Firstly, we plan to integrate an Internet of Things (IoT) module into our system. This will allow us to gather and analyze data from the cooking process, providing enhanced feedback to the user and enabling remote monitoring and control.
 * Secondly, we aim to transition from timer-based operations to sensor-based feedback. Instead of relying solely on pre-determined timings, we will utilize the data from the IR sensors and weightsensors to dynamically adjust the cooking parameters. This adaptive approach will result in more precise and consistent cooking outcomes.
 * Lastly, we intend to implement a reliable machine learning (ML) algorithm into our system. By training the algorithm on a large dataset of cooking parameters and corresponding chappati quality, we can create a model that can accurately predict the optimal cooking settings for different scenarios. This will further improve the consistency and accuracy of our Aloo Chappati preparation system, ensuring that the end product meets the desired standards every time.
+
 Through these future advancements, we aim to create an even more efficient, automated, and user-friendly Aloo Chappati preparation system that delivers consistently delicious chappatis with minimal effort and maximum reliability.
 
 
