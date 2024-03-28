@@ -16,3 +16,9 @@ We have designed and built the 𝗪𝗼𝗿𝗹𝗱’𝘀 𝗳𝗶𝗿𝘀𝘁 
 
 ✦ 𝗦𝗲𝗻𝘀𝗼𝗿 𝗦𝘁𝗮𝗰𝗸:
 - A sensor stack with 𝗽𝗿𝗼𝘅𝗶𝗺𝗶𝘁𝘆, IR, and 𝗰𝘂𝗿𝗿𝗲𝗻𝘁 sensors, coupled with 𝗽𝗲𝗿𝗶𝘀𝘁𝗮𝗹𝘁𝗶𝗰 𝗽𝘂𝗺𝗽𝘀, endstops, and reed switches, achieves precise measurements and 𝗰𝗹𝗼𝘀𝗲𝗱-𝗹𝗼𝗼𝗽 𝗳𝗲𝗲𝗱𝗯𝗮𝗰𝗸 for full automation.
+
+
+## Patent:
+- Patent Name: BAKER BOT SYSTEM, SMART KITCHEN ROBOT MACHINE, AND METHOD FOR AUTOMATIC MAKING OF CHAPATI
+- Patent No: 202141060759
+- Link: https://iprsearch.ipindia.gov.in/publicsearch
